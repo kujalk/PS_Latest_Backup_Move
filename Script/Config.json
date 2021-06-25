@@ -1,0 +1,18 @@
+{
+    "Backup_Count":"6",
+    "Folders":
+    [
+        {
+            "Source":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Source\\TestFolder1",
+            "Destination":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Destination\\TestFolder1"
+        },
+        {
+            "Source":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Source\\TestFolder3",
+            "Destination":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Destination\\TestFolder3"
+        },
+        {
+            "Source":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Source\\TestFolder2",
+            "Destination":"E:\\ScriptTest\\ScriptTest_PS_BK\\Test\\Destination\\TestFolder2"
+        }
+    ]
+}
